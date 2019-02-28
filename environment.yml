@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - geoviews
+  - holoviews
+  - hvplot
+  - xarray
+  - pip:
+    - git+https://github.com/pyviz/panel.git
