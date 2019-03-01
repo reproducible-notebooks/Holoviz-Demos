@@ -1,10 +1,12 @@
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - cartopy
-  - geoviews
-  - holoviews
-  - hvplot
   - xarray
-  - pip:
-    - git+https://github.com/pyviz/panel.git
+  - bokeh/label/dev::bokeh  
+  - pyviz/label/dev::datashader
+  - pyviz/label/dev::holoviews  
+  - pyviz/label/dev::geoviews
+  - pyviz/label/dev::hvplot  
+  - pyviz/label/dev::panel
