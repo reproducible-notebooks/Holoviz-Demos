@@ -10,3 +10,4 @@ dependencies:
   - pyviz/label/dev::geoviews
   - pyviz/label/dev::hvplot  
   - pyviz/label/dev::panel
+  - intake::intake
