@@ -13,3 +13,4 @@ dependencies:
   - pyviz/label/dev::hvplot  
   - pyviz/label/dev::panel
   - intake::intake
+  - intake::intake-xarray
