@@ -4,6 +4,8 @@ channels:
 dependencies:
   - cartopy
   - xarray
+  - zarr
+  - netcdf4
   - bokeh/label/dev::bokeh  
   - pyviz/label/dev::datashader
   - pyviz/label/dev::holoviews  
