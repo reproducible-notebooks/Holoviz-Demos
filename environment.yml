@@ -6,11 +6,11 @@ dependencies:
   - xarray
   - zarr
   - netcdf4
-  - bokeh/label/dev::bokeh  
-  - pyviz/label/dev::datashader
-  - pyviz/label/dev::holoviews  
-  - pyviz/label/dev::geoviews
-  - pyviz/label/dev::hvplot  
-  - pyviz/label/dev::panel
-  - intake::intake
-  - intake::intake-xarray
+  - pyviz::bokeh  
+  - pyviz::datashader
+  - pyviz::holoviews  
+  - pyviz::geoviews
+  - pyviz::hvplot  
+  - pyviz::panel
+  - intake
+  - intake-xarray
