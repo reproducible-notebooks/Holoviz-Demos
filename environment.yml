@@ -1,17 +1,19 @@
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - cartopy
+  - fsspec
+  - pyviz/label/dev::hvplot
+  - pyviz/label/dev::holoviews
+  - pyviz/label/dev::panel
+  - pyviz/label/dev::datas
   - xarray
   - zarr
   - netcdf4
-  - bokeh  
-  - datashader
-  - holoviews=1.12.1  
-  - geoviews
-  - hvplot  
-  - panel
   - intake
   - intake-xarray
   - metpy
+  - requests
+  - pip
+    - pip:
+    - git+https://github.com/pyviz/geoviews.git
