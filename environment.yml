@@ -6,7 +6,7 @@ dependencies:
   - pyviz/label/dev::hvplot
   - pyviz/label/dev::holoviews
   - pyviz/label/dev::panel
-  - pyviz/label/dev::datas
+  - pyviz/label/dev::datashader
   - xarray
   - zarr
   - netcdf4
