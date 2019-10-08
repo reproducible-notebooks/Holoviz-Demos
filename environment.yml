@@ -15,5 +15,5 @@ dependencies:
   - metpy
   - requests
   - pip
-    - pip:
+  - pip:
     - git+https://github.com/pyviz/geoviews.git
