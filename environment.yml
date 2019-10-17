@@ -3,11 +3,11 @@ channels:
 dependencies:
   - cartopy
   - fsspec
-  - pyviz/label/dev::hvplot
-  - pyviz/label/dev::holoviews
-  - pyviz/label/dev::panel
-  - pyviz/label/dev::datashader
-  - pyviz/label/dev::geoviews
+  - hvplot
+  - holoviews
+  - panel
+  - datashader
+  - geoviews
   - xarray
   - zarr
   - netcdf4
