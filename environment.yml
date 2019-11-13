@@ -15,4 +15,6 @@ dependencies:
   - intake-xarray
   - metpy
   - requests
-  - jupyter-panel-proxy
+  - pip 
+  - pip:
+    - jupyter-panel-proxy
