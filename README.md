@@ -1,5 +1,5 @@
 # HRRR_Dashboard
-Explore the High-Resolution Rapid Refresh weather forecast using Pyviz (hvplot and panel)
+Explore the High-Resolution Rapid Refresh weather forecast using [Holoviz](holoviz.org) (hvplot and panel)
 
 ### Launch Jupyter Notebook: 
 
