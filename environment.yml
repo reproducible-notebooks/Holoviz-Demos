@@ -229,5 +229,9 @@ dependencies:
   - zict=1.0.0=py_0
   - zlib=1.2.11=h516909a_1006
   - zstd=1.4.3=h3b9ef0a_0
+  - netcdf4
+  - cartopy
+  - metpy
+  - geoviews
   - pip:
     - jupyter-panel-proxy==0.1.0
