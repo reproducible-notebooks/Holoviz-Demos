@@ -16,3 +16,5 @@ dependencies:
   - metpy
   - requests
   - jupyter-panel-proxy
+  - pysocks=1.7.0=py37_0
+  - python=3.7.3=h33d41f4_1
