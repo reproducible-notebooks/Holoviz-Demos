@@ -233,5 +233,6 @@ dependencies:
   - cartopy
   - metpy
   - geoviews
+  - nbgitpuller
   - pip:
     - jupyter-panel-proxy==0.1.0
