@@ -3,7 +3,7 @@ Explore the High-Resolution Rapid Refresh weather forecast using [Holoviz](holov
 
 ### Launch Jupyter Notebook: 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR_Dashboard/master?filepath=HRRR_Dashboard.ipynb)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR_Dashboard/pinned?urlpath=git-pull?repo=https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR_Dashboard)
 
 
 ### Launch Web App: 
