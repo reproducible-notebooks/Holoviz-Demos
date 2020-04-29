@@ -16,3 +16,4 @@ dependencies:
   - metpy
   - requests
   - jupyter-panel-proxy
+  - nbgitpuller
