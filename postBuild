@@ -1,1 +1,2 @@
+jupyter serverextension enable --py nbgitpuller --sys-prefix
 jupyter labextension install @pyviz/jupyterlab_pyviz
