@@ -7,4 +7,4 @@ Explore the High-Resolution Rapid Refresh weather forecast using [Holoviz](holov
 
 ### Launch Web App: 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Binder&message=Panel+app&color=green)](https://mybinder.org/v2/gh/reproducible-notebooks/HRRR-Dashboard.git/HEAD?urlpath=panel/HRRR-Dashboard)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Binder&message=Panel+app&color=green)](https://mybinder.org/v2/gh/reproducible-notebooks/HRRR-Dashboard.git/HEAD?urlpath=panel)
