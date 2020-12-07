@@ -1,13 +1,20 @@
-# Panel Apps
-Explore several examples of Jupyter Notebooks using Holoviz.  the High-Resolution Rapid Refresh weather forecast using [Holoviz](holoviz.org) (hvplot and panel)
+# Holoviz Demos
+Explore several examples of Jupyter Notebooks using [Xarray](xarray.pydata.org)and [Holoviz](holoviz.org) to explore gridded datasets. 
 
 ### Launch Notebooks in JupyterLab: 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR-Dashboard/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/HRRR-Dashboard%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/HRRR-Dashboard/HRRR_Dashboard.ipynb%3Fautodecode)
+#### High Resolution Rapid Refresh (HRRR) Model Explorer
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/HRRR-Explorer.ipynb%3Fautodecode)
+
+#### WaveWatch III Model Explorer
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/WaveWatch-III-Explorer.ipynb%3Fautodecode)
+
+#### ETOPO1 Bathy Explorer
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/ETOPO1-Bathy-Explorer.ipynb%3Fautodecode)
 
 ### Launch Notebooks as Panel Web Apps: 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR-Dashboard/master?urlpath=panel)
+A specific Panel object can be made "servable" which then can be a stand-alone app.   
 
-... trying to use the binder branch for the binder environment doesn't seem work:
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/HRRR-Dashboard/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/HRRR-Dashboard%26amp%3Bbranch=master%26amp%3Burlpath=panel)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/master?urlpath=panel)
+
