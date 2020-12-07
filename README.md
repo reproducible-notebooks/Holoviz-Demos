@@ -1,5 +1,5 @@
-# HRRR_Dashboard
-Explore the High-Resolution Rapid Refresh weather forecast using [Holoviz](holoviz.org) (hvplot and panel)
+# Panel Apps
+Explore several examples of Jupyter Notebooks using Holoviz.  the High-Resolution Rapid Refresh weather forecast using [Holoviz](holoviz.org) (hvplot and panel)
 
 ### Launch Notebooks in JupyterLab: 
 
