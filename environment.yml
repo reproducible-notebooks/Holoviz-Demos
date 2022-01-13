@@ -1,5 +1,4 @@
 channels:
-  - pyviz
   - conda-forge
 dependencies:
   - cartopy
