@@ -1,7 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - cartopy
   - fsspec
   - hvplot
   - holoviews
