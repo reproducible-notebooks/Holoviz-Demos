@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.10
   - cartopy
   - fsspec
   - hvplot
@@ -11,7 +12,7 @@ dependencies:
   - xarray
   - zarr
   - netcdf4
-  - intake
+  - cf_xarray
   - intake-xarray
   - metpy
   - requests
