@@ -20,3 +20,8 @@ Explore several examples of Jupyter Notebooks using [Xarray](xarray.pydata.org) 
 A specific Panel object can be made "servable" which then can be a stand-alone app.   
 
 [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/master?urlpath=panel)
+
+## Launch in SageMaker Studio Lab
+If you have an AWS SageMaker Studio Lab account, you can open in Studio Lab using the button below, then when prompted, choose to download the whole repo and to build the conda environment.   If you don't have an account, you can [sign up for free](https://studiolab.sagemaker.aws) (no AWS account required).
+
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/reproducible-notebooks/Holoviz-Demos/blob/master/COAWST-Explorer.ipynb)
