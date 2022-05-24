@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.10
   - fsspec
   - hvplot
   - holoviews
@@ -12,6 +13,7 @@ dependencies:
   - netcdf4
   - intake
   - intake-xarray
+  - cf_xarray
   - metpy
   - requests
   - jupyter-panel-proxy
