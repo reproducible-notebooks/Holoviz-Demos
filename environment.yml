@@ -6,6 +6,7 @@ dependencies:
   - fsspec
   - hvplot
   - dask
+  - distributed
   - panel
   - datashader
   - geoviews
