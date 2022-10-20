@@ -3,6 +3,7 @@ channels:
 dependencies:
   - python=3.10
   - cartopy
+  - cftime
   - fsspec
   - hvplot
   - dask
