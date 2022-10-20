@@ -12,6 +12,7 @@ dependencies:
   - xarray
   - zarr
   - netcdf4
+  - s3fs
   - cf_xarray
   - intake-xarray
   - metpy
