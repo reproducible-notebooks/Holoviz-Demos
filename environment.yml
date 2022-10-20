@@ -5,7 +5,7 @@ dependencies:
   - cartopy
   - fsspec
   - hvplot
-  - holoviews
+  - dask
   - panel
   - datashader
   - geoviews
