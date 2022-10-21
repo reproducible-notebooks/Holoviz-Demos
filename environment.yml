@@ -2,6 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - bokeh<3
   - cartopy
   - cftime
   - fsspec
@@ -13,7 +14,7 @@ dependencies:
   - geoviews
   - xarray
   - zarr
-  - netcdf4
+  - netcdf4==1.6.0
   - s3fs
   - cf_xarray
   - intake-xarray
