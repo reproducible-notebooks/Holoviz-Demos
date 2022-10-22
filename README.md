@@ -6,6 +6,8 @@ Explore several examples of Jupyter Notebooks using [Xarray](xarray.pydata.org) 
 #### High Resolution Rapid Refresh (HRRR) Model Explorer
 [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/HRRR-Explorer.ipynb%3Fautodecode)
 
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Binder&message=GCS&color=green)](https://mybinder.org/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/HRRR-Explorer.ipynb%3Fautodecode)
+
 #### WaveWatch III Model Explorer
 [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Holoviz-Demos/binder?urlpath=git-pull?repo=https://github.com/reproducible-notebooks/Holoviz-Demos%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/Holoviz-Demos/WaveWatch3-Explorer.ipynb%3Fautodecode)
 
